@@ -1,0 +1,6 @@
+pandas
+xlrd
+mygene
+networkx
+matplotlib
+graphviz
